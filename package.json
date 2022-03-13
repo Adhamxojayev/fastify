@@ -1,0 +1,18 @@
+{
+  "name": "fastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Ahror",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.27.4",
+    "fastify-swagger": "^5.0.0",
+    "pg": "^8.7.3"
+  }
+}
