@@ -4,7 +4,7 @@ const pool = new Pool({
     host: 'localhost',
 	post: 5432,
 	user: 'ahror',
-	password: '111133',
+	password: '******',
 	database: 'fastify'
 })
 
